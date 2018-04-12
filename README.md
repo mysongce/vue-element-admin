@@ -1,9 +1,5 @@
 # vue-element-admin #
-[线上地址](http://panjiachen.github.io/vue-element-admin)
-
-[English Document](https://github.com/PanJiaChen/vue-element-admin/blob/master/README-en.md)
-
-[wiki](https://github.com/PanJiaChen/vue-element-admin/wiki)
+ 
 
 **注意：该项目目前使用element-ui@1.3.3版本,所以最低兼容 Vue 2.3.0**
 
